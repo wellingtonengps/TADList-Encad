@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1612564300 source:c:\users\wellington\documents\dcc013-dcc077\semana 6\tadno\tadno.cpp
+	<iostream>
+	"TADNo.h"
+	"TADListaEncad.h"
+
+1612564299 c:\users\wellington\documents\dcc013-dcc077\semana 6\tadno\tadno.h
+
+1612564473 c:\users\wellington\documents\dcc013-dcc077\semana 6\tadno\tadlistaencad.h
+	"TADNo.h"
+
+1612564684 source:c:\users\wellington\documents\dcc013-dcc077\semana 6\tadno\main.cpp
+	<iostream>
+	"TADListaEncad.h"
+
+1612564604 source:c:\users\wellington\documents\dcc013-dcc077\semana 6\tadno\tadlistaencad.cpp
+	<iostream>
+	"TADListaEncad.h"
+
